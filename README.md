@@ -11,6 +11,7 @@ The Kevin Cookie Company Orders And Revenue Report provides an overview of the c
 - What is the revenue breakdown by country?
 - How many orders were placed by each customer?
 - How does the sum of cookies shipped vary over time?
+- Dashboard interaction <a href= "https://github.com/ZaynMthembu/Data-Analysis-Dashboard/blob/main/kevin.PNG"> View Dashboard </a>
 
 ## Processes:
 - Data on cookie shipments over time is tracked and visualized in a line graph.
@@ -19,7 +20,8 @@ The Kevin Cookie Company Orders And Revenue Report provides an overview of the c
 - Cookie shipment distribution by country is shown in a pie chart.
 
 ## Dashboard
-<a href= "https://github.com/ZaynMthembu/Data-Analysis-Dashboard/blob/main/kevin.PNG"> View Dashboard </a>
+<img width="947" height="545" alt="kevin" src="https://github.com/user-attachments/assets/173c19a1-79b0-44e1-8c03-1e211786520f" />
+
 
 ## Project Insights:
 - Total revenue is R98.37K.
