@@ -16,7 +16,7 @@ The Kevin Cookie Company Orders And Revenue Report provides an overview of the c
 - Cookie shipment distribution by country is shown in a pie chart.
 
 ## Dashboard
-
+<a href= "https://github.com/ZaynMthembu/Data-Analysis-Dashboard/blob/main/kevin.PNG"> View Dashboard </a>
 
 ## Project Insights:
 - Total revenue is R98.37K.
